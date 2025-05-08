@@ -1,0 +1,29 @@
+.navbar {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.logo {
+  font-size: 22px;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  font-size: 8px;
+  margin-top: 5px;
+}
+
+.menu-cont {
+  height: 15px;
+  width: 70px;
+  background-color: white;
+  border-radius: 10px;
+  color: rgb(40, 38, 38);
+  text-align: center;
+}
